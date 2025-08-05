@@ -6,15 +6,6 @@ To analyze a suspicious email and identify phishing characteristics including sp
 
 ---
 
-## 🛠️ Tools Used
-
-- Sample Phishing Email (Amazon Shipping Confirmation)  
-- Header Analysis Tool: [MXToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)  
-- Browser (for link hover analysis)  
-- Manual inspection based on known phishing traits  
-
----
-
 ## 📨 Step-by-Step Analysis
 
 ### ✅ Step 1: Sender’s Email Address (Spoofing Check)
